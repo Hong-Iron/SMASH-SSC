@@ -1,0 +1,87 @@
+{
+  "code": "SSC",
+  "title": "SMASH SSC",
+  "school": "수원과학대",
+  "fullName": "수원과학대학교",
+  "campusName": "수원과학대학교",
+  "tagline": "수원과학대를 부셔 (시험기간 스트레스 해소)",
+  "description": "수원과학대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 수원과학대학교 3D 화면과 SMASH SSC 제목",
+  "url": "https://hong-iron.github.io/SMASH-SSC/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "circle",
+    "center": "37.19251,126.98217,280"
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.1924163,
+        126.9812356
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 제1공학관 북서쪽 비탈은 사진에서 나무가 빈틈없이 덮고 있어 지붕이 보이지 않고, 이 자리에는 건축물대장 기록도 없다."
+    },
+    {
+      "at": [
+        37.1936908,
+        126.9821435
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 같은 그늘 속 바로 옆 14번 창고는 파란 지붕이 또렷이 보이는데, 이 자리는 나무와 그늘만 있고 지붕이 보이지 않는다."
+    }
+  ],
+  "look": {
+    "본관": {
+      "style": "brick",
+      "wall": "#9a5242",
+      "glass": "#3f4a4c",
+      "frame": "#e0e1e1"
+    },
+    "제3공학관": {
+      "style": "brick",
+      "wall": "#b9604c",
+      "glass": "#5f7884",
+      "frame": "#24423e"
+    },
+    "사회과학관": {
+      "style": "tan",
+      "wall": "#d1c0b5",
+      "glass": "#5f807f",
+      "frame": "#8a8f8f"
+    },
+    "제2공학관": {
+      "style": "brick",
+      "wall": "#92493b",
+      "glass": "#3b4246",
+      "frame": "#e6e6e2"
+    },
+    "제1공학관": {
+      "style": "brick",
+      "wall": "#94523f",
+      "glass": "#3d4040",
+      "frame": "#e2e0da"
+    },
+    "종합강의동": {
+      "style": "glass",
+      "wall": "#c0c1c2",
+      "glass": "#6f9c90",
+      "frame": "#929c94"
+    },
+    "도서관": {
+      "style": "glass",
+      "wall": "#a9adb0",
+      "glass": "#5f8a93",
+      "frame": "#8f9599"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
