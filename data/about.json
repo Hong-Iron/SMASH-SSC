@@ -1,0 +1,34 @@
+{
+ "region": "경기 화성시 정남면",
+ "nameEn": "Suwon Science College",
+ "added": "2026-11-01T02:27",
+ "rank": 160,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "USW",
+   "campus": "수원대학교",
+   "km": 2.0
+  },
+  {
+   "code": "UHS",
+   "campus": "협성대학교",
+   "km": 3.5
+  },
+  {
+   "code": "HANSHIN",
+   "campus": "한신대학교 경기캠퍼스",
+   "km": 3.6
+  },
+  {
+   "code": "JANGAN",
+   "campus": "장안대학교",
+   "km": 3.9
+  },
+  {
+   "code": "SWCU",
+   "campus": "수원가톨릭대학교",
+   "km": 4.3
+  }
+ ]
+}
